@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently searching for a new job exprience ... World Wide!
+<a href="https://app.daily.dev/CloudCrusader_X"><img src="https://api.daily.dev/devcards/b835fdb47f1d4c9e8abef9ba763cf0d2.png?r=tme" width="400" alt="Markus Wagner's Dev Card"/></a>
+
