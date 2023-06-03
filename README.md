@@ -27,13 +27,18 @@ Music can be found here: https://soundcloud.com/escalation-expert and https://ww
 ## Dev
 - Razer Blade 2021 14"
 - Apple iPhone 12 Pro
-- Razer Naga
-- 
+- Razer Basilisk
+- Razer Ornata v2
+- BenQ BL240S
+
+
 ## DJing
 
 - Pioneer XDJ-RX
 - AKAI APC Key-25
 - KORG PadKontrol
+- BOSE Companion 5
+- JBL LIVE650BTNC
 
 ## Tech-Stack
 
